@@ -1,0 +1,22 @@
+{
+  "name": "nodejsdoc",
+  "version": "1.0.0",
+  "description": "NodeJS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OusmanaTraore/nodeJSDoc.git"
+  },
+  "keywords": [
+    "NodeJs"
+  ],
+  "author": "Ousmana Traoré",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OusmanaTraore/nodeJSDoc/issues"
+  },
+  "homepage": "https://github.com/OusmanaTraore/nodeJSDoc#readme"
+}
