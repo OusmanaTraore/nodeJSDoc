@@ -2,4 +2,4 @@
 
 ## You can see it's evolution just by following the link below
 
-[NodeJsDoc](https://github.com/OusmanaTraore/nodeJSDoc)
+[NodeJsDoc](https://ousmanatraore.github.io/nodeJSDoc/)
